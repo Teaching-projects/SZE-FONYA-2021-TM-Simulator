@@ -1,0 +1,22 @@
+{
+    "s": {
+      "0": { "uj_ertek": "0", "uj_allapot": "h" },
+      "1": { "uj_ertek": "1", "uj_allapot": "h" },
+      "#": { "irany": 1, "uj_allapot": "l" }
+    },
+    "l": {
+      "0": { "uj_ertek": "1", "uj_allapot": "w" },
+      "1": { "uj_ertek": "0", "uj_allapot": "w" },
+      "#": { "irany": -1, "uj_allapot": "r" }
+    },
+    "w": {
+      "0": { "irany": 1, "uj_allapot": "l" },
+      "1": { "irany": 1, "uj_allapot": "l" },
+      "#": { "uj_ertek": "#", "uj_allapot": "h" }
+    },
+    "r": {
+      "0": { "irany": -1, "uj_allapot": "r" },
+      "1": { "irany": -1, "uj_allapot": "r" },
+      "#": { "uj_ertek": "#", "uj_allapot": "h" }
+    }
+  }
